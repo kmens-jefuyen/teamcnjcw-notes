@@ -1,2 +1,14 @@
 # teamcnjcw-notes
-HTML page archive and documentation
+
+页面文件整理目录
+
+该仓库用于页面文件整理，不针对单个页面做额外说明。
+
+## 保存位置
+
+- 页面文件默认保存在仓库根目录
+- 说明文件保存在 `README.md`
+
+## 检查说明
+
+如需核对发布结果，可同时查看 GitHub 文件链接和 Pages 链接。
